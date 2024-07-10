@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/DELL/Desktop/Portfolio/Projects/customer%20segmentation/mlruns/598217458559392936/eb0d985c83bf4b47a7a7199369debe24/artifacts
+deleted_time: 1720626065107
 end_time: 1720612493910
 entry_point_name: ''
 experiment_id: '598217458559392936'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: eb0d985c83bf4b47a7a7199369debe24
 run_name: dapper-elk-459
 run_uuid: eb0d985c83bf4b47a7a7199369debe24
