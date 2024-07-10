@@ -1,2 +1,3 @@
-# customer_segmentation
-# customer_segmentation
+# Customer Segmentation
+
+ A K-means clustering algorithm to group customers of a retail store based on their purchase history.
