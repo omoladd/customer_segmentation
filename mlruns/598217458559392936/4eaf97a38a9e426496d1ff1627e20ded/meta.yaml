@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/DELL/Desktop/Portfolio/Projects/customer%20segmentation/mlruns/598217458559392936/4eaf97a38a9e426496d1ff1627e20ded/artifacts
+end_time: 1720610045601
+entry_point_name: ''
+experiment_id: '598217458559392936'
+lifecycle_stage: active
+run_id: 4eaf97a38a9e426496d1ff1627e20ded
+run_name: receptive-shrike-365
+run_uuid: 4eaf97a38a9e426496d1ff1627e20ded
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720610039900
+status: 3
+tags: []
+user_id: DELL
